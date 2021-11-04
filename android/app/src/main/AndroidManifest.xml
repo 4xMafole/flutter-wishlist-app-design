@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.wish_app">
    <application
-        android:label="wish_app"
+        android:label="wishlist Design"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

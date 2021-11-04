@@ -252,7 +252,7 @@ class _MainpageState extends State<Mainpage> {
             ),
             backgroundColor: isDone
                 ? Colors.white38
-                : color.AppColor.mainColor.withOpacity(0.3),
+                : color.AppColor.mainColor.withOpacity(0.05),
           ),
           SizedBox(
             width: 10,
