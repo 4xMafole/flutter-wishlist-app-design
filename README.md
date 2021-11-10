@@ -1,5 +1,5 @@
 # Wishlist App Design
-### Wishlist App 🌠🎇 The idea here to create a space where people can gather their wishes as tasks and assign them to their friends, family members, ...etc. These assignees can accept or reject these ...
+### <b>Wishlist App</b> 🌠🎇 The idea here to create a space where people can gather their wishes as tasks and assign them to their friends, family members, ...etc. These assignees can accept or reject these ...
 
 </br>
 
